@@ -1,0 +1,25 @@
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   margin: 0;
+   text-align: center;
+    background-color: rgb(80, 146, 245); /* Color de fondo*/
+    color: rgb(230, 112, 230); /* Color del texto */
+}
+h1{background-color: rgb(80, 146, 245); /* Color de fondo*/
+    color: rgb(255, 170, 255) /* Color del texto*/
+}
+h2{background-color: rgb(80, 146, 245); /* Color de fondo */
+color: rgb(16, 186, 253); /* Color del texto */
+}
+h3{background-color: rgb(80, 146, 245); /* Color de fondo */
+color: rgb(255, 170, 255); /* Color del texto */
+}
+p{background-color: rgb(80, 146, 245); /* Color de fondo */
+    color:  rgb(255, 255, 255); /* Color del texto */
+}
+div{
+    max-width: 600px;
+}
